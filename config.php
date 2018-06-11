@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://navyarthouse.com/');
+define('HTTP_SERVER', 'http://phongthuygiatot.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://navyarthouse.com/');
+define('HTTPS_SERVER', 'http://phongthuygiatot.com/');
 
 // DIR
 define('DIR_APPLICATION', '/home/navya238/public_html/catalog/');

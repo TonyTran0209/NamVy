@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://navyarthouse.com/admin/');
-define('HTTP_CATALOG', 'http://navyarthouse.com/');
+define('HTTP_SERVER', 'http://phongthuygiatot.com/admin/');
+define('HTTP_CATALOG', 'http://phongthuygiatot.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://navyarthouse.com/admin/');
-define('HTTPS_CATALOG', 'http://navyarthouse.com/');
+define('HTTPS_SERVER', 'http://phongthuygiatot.com/admin/');
+define('HTTPS_CATALOG', 'http://phongthuygiatot.com/');
 
 // DIR
 define('DIR_APPLICATION', '/home/navya238/public_html/admin/');
